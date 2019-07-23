@@ -2,7 +2,9 @@
 
 DeepSUM is a novel Multi Image Super-Resolution (MISR) deep neural network that exploits both spatial and temporal correlations to recover a single high resolution image from multiple unregistered low resolution images.
 
-This repository contains python/tensorflow implementation of DeepSUM, trained and tested on the PROBA-V dataset provided by ESA’s [Advanced Concepts Team](http://www.esa.int/gsp/ACT/index.html) in the context of the [European Space Agency's Kelvin competition](https://kelvins.esa.int/proba-v-super-resolution/home/). DeepSUM is the winner of the PROBA-V SR challenge.
+This repository contains python/tensorflow implementation of DeepSUM, trained and tested on the PROBA-V dataset provided by ESA’s [Advanced Concepts Team](http://www.esa.int/gsp/ACT/index.html) in the context of the [European Space Agency's Kelvin competition](https://kelvins.esa.int/proba-v-super-resolution/home/). 
+
+DeepSUM is the winner of the PROBA-V SR challenge.
 
 
 BibTex reference:
