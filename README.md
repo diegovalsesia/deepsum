@@ -9,19 +9,15 @@ DeepSUM is the winner of the PROBA-V SR challenge.
 
 BibTex reference:
 ```
-@ARTICLE{2019arXiv190706490B,
-       author = {{Bordone Molini}, Andrea and {Valsesia}, Diego and {Fracastoro}, Giulia and
-         {Magli}, Enrico},
-        title = "{DeepSUM: Deep neural network for Super-resolution of Unregistered Multitemporal images}",
-      journal = {arXiv e-prints},
-     keywords = {Electrical Engineering and Systems Science - Image and Video Processing, Computer Science - Machine Learning},
-         year = "2019",
-        month = "Jul",
-          eid = {arXiv:1907.06490},
-        pages = {arXiv:1907.06490},
-archivePrefix = {arXiv},
-       eprint = {1907.06490},
- primaryClass = {eess.IV}
+@article{molini2019deepsum,
+  title={DeepSUM: Deep neural network for Super-resolution of Unregistered Multitemporal images},
+  author={Molini, Andrea Bordone and Valsesia, Diego and Fracastoro, Giulia and Magli, Enrico},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={58},
+  number={5},
+  pages={3644--3656},
+  year={2019},
+  publisher={IEEE}
 }
 ```
 
